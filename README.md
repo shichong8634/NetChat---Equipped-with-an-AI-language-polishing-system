@@ -67,3 +67,8 @@ user messages while preserving their original meaning.
 - Message history
 - File sharing
 - End-to-end encryption
+
+
+YouTube video demonstration link: https://www.youtube.com/watch?v=495O5J7SbNY&list=PLPyWB8OX_I30
+
+You can also view the detailed content of the project I submitted on the devpost official website, which can be found at: https://devpost.com/software/netchat-ai
